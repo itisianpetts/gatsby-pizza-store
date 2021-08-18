@@ -1,6 +1,8 @@
 # gatsby-pizza-store
 Built using Gatsby and Sanity
 
+GraphQL, React Hooks/Custom Hooks, Headless CMS, Serverless Functions, Sending Emails
+
 Deployed to Netlify: https://epic-bell-bbf0e4.netlify.app/
 
 ![1](https://user-images.githubusercontent.com/66824231/129949528-ac62eb63-d234-468a-9659-eb7eb66489d3.jpg)
